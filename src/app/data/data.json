@@ -1,0 +1,32 @@
+
+[
+    {
+        "id":1,
+        "productName":"Cam",
+        "price": 12000,
+        "image":"https://i.pinimg.com/736x/1d/8d/f3/1d8df38b92a9321742ea43cbdc8c3ab9.jpg",
+        "quantity": 12
+    },
+    {
+        "id":2,
+        "productName":"Nho",
+        "price": 15000,
+        "image":"https://i.pinimg.com/736x/f0/02/f3/f002f32d005233f85ee6698dbb26c44d.jpg",
+        "quantity": 10
+    },
+    {
+        "id":3,
+        "productName":"Táo",
+        "price": 20000,
+        "image":"https://i.pinimg.com/564x/16/dd/64/16dd646a99bce39ba9fa590b79c90d87.jpg",
+        "quantity": 17
+    },
+    {
+        "id":4,
+        "productName":"Dưa hấu",
+        "price": 18000,
+        "image":"https://i.pinimg.com/564x/af/40/7c/af407c5afe5c2ccd821591e1f23e4268.jpg",
+        "quantity": 7
+    }
+
+]
